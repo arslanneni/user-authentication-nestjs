@@ -52,13 +52,15 @@ This project is a **user authentication system** built using **NestJS**, **Postg
 ### Steps to Run the Project
 
 1. **Clone the Repository**:
-   ```bash
+```bash
    git clone https://github.com/your-username/your-repo.git
    cd your-repo
 2. Install Dependencies:
+```bash
    npm install
 
 3. Configure Environment Variables:
+```bash
 JWT_SECRET=your_jwt_secret
 DB_HOST=localhost
 DB_PORT=5432
@@ -67,6 +69,7 @@ DB_PASSWORD=your_password
 DB_NAME=testdb
 
 4.Run the Application:
+```bash
 npm run start:dev
 
 
