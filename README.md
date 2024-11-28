@@ -2,6 +2,8 @@
 
 This project is a **user authentication system** built using **NestJS**, **PostgreSQL**, and **JWT**. It supports secure login functionality with password encryption and token-based authentication.
 
+---
+
 ## Stack and Technologies
 
 ### Backend
@@ -52,25 +54,24 @@ This project is a **user authentication system** built using **NestJS**, **Postg
 ### Steps to Run the Project
 
 1. **Clone the Repository**:
-```bash
+   ```bash
    git clone https://github.com/your-username/your-repo.git
    cd your-repo
-2. Install Dependencies:
-```bash
+
+2. **Install Dependencies:**:
+   ```bash
    npm install
 
-3. Configure Environment Variables:
-```bash
-JWT_SECRET=your_jwt_secret
-DB_HOST=localhost
-DB_PORT=5432
-DB_USERNAME=postgres
-DB_PASSWORD=your_password
-DB_NAME=testdb
+3. **Configure Environment Variables:**:
+   ```bash
+   JWT_SECRET=your_jwt_secret
+   DB_HOST=localhost
+   DB_PORT=5432
+   DB_USERNAME=postgres
+   DB_PASSWORD=your_password
+   DB_NAME=testdb
 
-4.Run the Application:
-```bash
-npm run start:dev
-
-
+4. **Configure Environment Variables:**:
+   ```bash
+   npm run start:dev
 
