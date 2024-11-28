@@ -71,7 +71,7 @@ This project is a **user authentication system** built using **NestJS**, **Postg
    DB_PASSWORD=your_password
    DB_NAME=testdb
 
-4. **Configure Environment Variables:**:
+4. **Run the Application:**:
    ```bash
    npm run start:dev
 
